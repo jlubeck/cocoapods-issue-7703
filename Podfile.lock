@@ -1,0 +1,154 @@
+PODS:
+  - AFNetworking (3.0.4):
+    - AFNetworking/NSURLSession (= 3.0.4)
+    - AFNetworking/Reachability (= 3.0.4)
+    - AFNetworking/Security (= 3.0.4)
+    - AFNetworking/Serialization (= 3.0.4)
+    - AFNetworking/UIKit (= 3.0.4)
+  - AFNetworking/NSURLSession (3.0.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.0.4)
+  - AFNetworking/Security (3.0.4)
+  - AFNetworking/Serialization (3.0.4)
+  - AFNetworking/UIKit (3.0.4):
+    - AFNetworking/NSURLSession
+  - Alamofire (4.7.2)
+  - Cosmos (15.0.0)
+  - Crashlytics (3.10.1):
+    - Fabric (~> 1.7.5)
+  - DLRadioButton (1.4.12)
+  - Fabric (1.7.6)
+  - FSUtils (0.7.1):
+    - MBProgressHUD (~> 1.1.0)
+  - IQKeyboardManager (6.0.2)
+  - Kingfisher (4.7.0)
+  - lottie-ios (2.5.0)
+  - LUExpandableTableView (3.0.0)
+  - MagicalRecord (2.3.2):
+    - MagicalRecord/Core (= 2.3.2)
+  - MagicalRecord/Core (2.3.2)
+  - MaterialComponents/AnimationTiming (54.11.1)
+  - MaterialComponents/Ink (54.11.1):
+    - MaterialComponents/private/Math
+  - MaterialComponents/private/Application (54.11.1)
+  - MaterialComponents/private/Math (54.11.1)
+  - MaterialComponents/ShadowElevations (54.11.1)
+  - MaterialComponents/ShadowLayer (54.11.1):
+    - MaterialComponents/ShadowElevations
+  - MaterialComponents/Tabs (54.11.1):
+    - MaterialComponents/AnimationTiming
+    - MaterialComponents/Ink
+    - MaterialComponents/private/Math
+    - MaterialComponents/ShadowElevations
+    - MaterialComponents/ShadowLayer
+    - MaterialComponents/Typography
+    - MDFInternationalization
+  - MaterialComponents/Typography (54.11.1):
+    - MaterialComponents/private/Application
+  - MBProgressHUD (1.1.0)
+  - MDFInternationalization (1.0.4)
+  - OneSignal (2.8.2)
+  - OpenTok (2.13.0)
+  - RSKImageCropper (2.0.1)
+  - SACodedTextField (1.0)
+  - SkyFloatingLabelTextField (3.4.1)
+  - SnapKit (4.0.0)
+  - Stripe (12.1.2)
+  - SwiftLint (0.25.1)
+  - SwiftValidators (7.0.3)
+  - SwiftyBeaver (1.5.2)
+  - SwiftyJSON (4.1.0)
+  - "UITextView+Placeholder (1.2.0)"
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0.0)
+  - Alamofire
+  - Cosmos (~> 15.0)
+  - Crashlytics
+  - DLRadioButton (~> 1.4)
+  - Fabric
+  - FSUtils
+  - IQKeyboardManager
+  - Kingfisher
+  - lottie-ios
+  - LUExpandableTableView
+  - MagicalRecord
+  - MaterialComponents/Tabs
+  - MBProgressHUD (~> 1.1.0)
+  - OneSignal (< 3.0, >= 2.6.2)
+  - OpenTok
+  - RSKImageCropper
+  - SACodedTextField
+  - SkyFloatingLabelTextField (~> 3.0)
+  - SnapKit (~> 4.0.0)
+  - Stripe
+  - SwiftLint
+  - SwiftValidators
+  - SwiftyBeaver
+  - SwiftyJSON
+  - "UITextView+Placeholder (~> 1.2)"
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - Alamofire
+    - Cosmos
+    - Crashlytics
+    - DLRadioButton
+    - Fabric
+    - FSUtils
+    - IQKeyboardManager
+    - Kingfisher
+    - lottie-ios
+    - LUExpandableTableView
+    - MagicalRecord
+    - MaterialComponents
+    - MBProgressHUD
+    - MDFInternationalization
+    - OneSignal
+    - OpenTok
+    - RSKImageCropper
+    - SACodedTextField
+    - SkyFloatingLabelTextField
+    - SnapKit
+    - Stripe
+    - SwiftLint
+    - SwiftValidators
+    - SwiftyBeaver
+    - SwiftyJSON
+    - "UITextView+Placeholder"
+
+SPEC CHECKSUMS:
+  AFNetworking: a0075feb321559dc78d9d85b55d11caa19eabb93
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  Cosmos: a6dbd3d0baa0cc8f51f8598f7508d5a09d0a9ade
+  Crashlytics: aee1a064cbbf99b32efa3f056a5f458d846bc8ff
+  DLRadioButton: d7c4e225ed0e8013cef7be61455230c7557ad7c1
+  Fabric: f8d42c893bb187326a7968b62abe55c36a987a46
+  FSUtils: 400f2cbc46cfac8c910cd84bc8145b150dea3c7d
+  IQKeyboardManager: c49d59e358aeeffaa0280aa305093c2b194d2607
+  Kingfisher: da6b005aa96d37698e3e4f1ccfe96a5b9bbf27d6
+  lottie-ios: d699fdee68d7b63e721d949388b015fef1aaa4ac
+  LUExpandableTableView: 3282bf2de40af3fadd97095f9a4738185a261d6f
+  MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
+  MaterialComponents: c81c8f9f01308f7599a7847bb2bbe804dd696061
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MDFInternationalization: e355b0cebecf53d60233bd267084e49366c82513
+  OneSignal: ab5c509192ca8390bdd3570a6261e6decf4c79c1
+  OpenTok: 9fa8d108284d751f284bf294a91c20529bde7df6
+  RSKImageCropper: 50d5a3e4160f0309b14d75b89d5ae2f496d56e0d
+  SACodedTextField: dc04d2b84ed0a141261c1080570e8df88816b289
+  SkyFloatingLabelTextField: 8085f20f57f74a00cfcae58099299faa1a971035
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  Stripe: 3230cdf8a8b0c04902e45e86f222fb82a926239c
+  SwiftLint: ce933681be10c3266e82576dad676fa815a602e9
+  SwiftValidators: 660ce9ef3f0358c25c3a6154f7edc02c7d4a0578
+  SwiftyBeaver: 85daaaa2b3ae6e31b7b55c99430e8b91dac088af
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  "UITextView+Placeholder": 77680995fcdd07c3f52ec92fe1150874a2ac89ff
+
+PODFILE CHECKSUM: 9f7aa972a32204c8c3e8eef898eaa672f69bd1c9
+
+COCOAPODS: 1.5.0
